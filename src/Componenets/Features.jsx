@@ -1,9 +1,9 @@
 import React from "react";
 import FeatureBox from "./FeatureBox";
-import image1 from "../assets/images/1.svg";
-import image2 from "../assets/images/2.svg";
-import image3 from "../assets/images/3.svg";
-import image4 from "../assets/images/4.svg";
+import image1 from "/Images/1.svg";
+import image2 from "/Images/2.svg";
+import image3 from "/Images/3.svg";
+import image4 from "/Images/4.svg";
 
 function Features(props) {
   return (
