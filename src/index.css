@@ -33,7 +33,7 @@ input{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('./assets/images/banner.png');
+    background-image: url('/Images/banner.png');
     position: relative;
     z-index: 0;
 }
@@ -254,7 +254,7 @@ nav .menu-btn,
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('./assets/Images/offer.png');
+    background-image: url('/Images/offer.png');
     text-align: center;
     margin-top: -10%;
 }
